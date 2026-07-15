@@ -3,6 +3,8 @@
 A Nintendo 3DS homebrew app that turns the console into an [Omnichord](https://en.wikipedia.org/wiki/Omnichord) —
 pick a chord, strum, and play.
 
+*Only Supports New Nintendo 3DS
+
 Built with devkitARM + libctru + citro2d. Runs on real hardware via the
 Homebrew Launcher and produces its own sound via ndsp voice-pool synthesis
 (no pre-recorded samples).
