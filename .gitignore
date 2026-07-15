@@ -1,0 +1,15 @@
+# devkitARM / 3DS build artifacts
+/build/
+*.3dsx
+*.elf
+*.smdh
+*.map
+
+# Local tooling caches (keep .vscode/c_cpp_properties.json tracked)
+/.claude/
+.vscode/ipch/
+.vscode/*.log
+
+# OS
+.DS_Store
+Thumbs.db
